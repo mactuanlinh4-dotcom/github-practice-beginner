@@ -1,36 +1,36 @@
-\# 👋 Xin chào, tôi là \[Tên của bạn]!
+\# 👋 Xin chào, tôi là \[Mạc Tuấn Linh]!
 
 
 
 \## 📊 Thông tin cơ bản
 
-\- 🎓 \*\*Trường:\*\* \[Tên trường]
+\- 🎓 \*\*Trường:\*\* \[HUST]
 
-\- 📚 \*\*Khoa:\*\* \[Tên khoa/chuyên ngành]  
+\- 📚 \*\*Khoa:\*\* \[CKDL/Kĩ thuật ô tô]  
 
-\- 📅 \*\*Năm học:\*\* \[Năm thứ mấy]
+\- 📅 \*\*Năm học:\*\* \[3]
 
-\- 📧 \*\*Email:\*\* \[email@example.com]
+\- 📧 \*\*Email:\*\* \[mactuanlinh4@gmail.com]
 
-\- 🐙 \*\*GitHub:\*\* \[@username](https://github.com/username)
+\- 🐙 \*\*GitHub:\*\* \[mactuanlinh4-dotcom](https://github.com/mactuanlinh4-dotcom)
 
 
 
 \## 🎯 Mục tiêu học tập
 
-\- \[ ] Học Git/GitHub cơ bản
+\- \[x] Học Git/GitHub cơ bản(Đã và đang học)
 
-\- \[ ] Hoàn thành khóa học \[tên khóa học]
+\- \[ ] Hoàn thành khóa học \[Tên khóa học]
 
 \- \[ ] Tham gia dự án thực tế
 
-\- \[ ] \[Mục tiêu khác của bạn]
+\- \[ ] \[Mục tiêu khác]
 
 
 
 \## 💻 Kỹ năng đang học
 
-\- \*\*Ngôn ngữ lập trình:\*\* \[Python/Java/JavaScript/etc]
+\- \*\*Ngôn ngữ lập trình:\*\* \[C/C++]
 
 \- \*\*Framework:\*\* \[React/Vue/Django/etc] 
 
@@ -42,9 +42,9 @@
 
 \## 🌟 Dự án đã làm
 
-1\. \*\*\[Tên project 1]\*\* - \[Mô tả ngắn] (\[Link GitHub nếu có])
+1\. \*\*\[Doesn't exist]\*\* - \[Mô tả ngắn] (\[Link GitHub nếu có])
 
-2\. \*\*\[Tên project 2]\*\* - \[Mô tả ngắn] (\[Link GitHub nếu có])
+2\. \*\*\[Doesn't exist]\*\* - \[Mô tả ngắn] (\[Link GitHub nếu có])
 
 3\. \*\*Dự án này\*\* - Luyện tập GitHub cơ bản 🎉
 
@@ -52,19 +52,19 @@
 
 \## 🎮 Sở thích
 
-\- 🎵 Nghe nhạc: \[Thể loại yêu thích]
+\- 🎵 Nghe nhạc: \[EDM]
 
-\- 📚 Đọc sách: \[Thể loại/tác giả yêu thích]  
+\- 📚 Đọc sách: \[kinh dị/không có]  
 
-\- ⚽ Thể thao: \[Môn thể thao]
+\- ⚽ Thể thao: \[Môn nào cũng chơi]
 
-\- 🎯 Khác: \[Sở thích khác]
+\- 🎯 Khác: \[Học]
 
 
 
 \## 💭 Quote yêu thích
 
-> "\[Câu quote/châm ngôn bạn yêu thích]"
+> "\[No pain, no gain]"
 
 
 
