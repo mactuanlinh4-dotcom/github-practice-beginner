@@ -4,7 +4,7 @@
 
 ## Format:
 ```
-- [Tên đầy đủ] - [Trường/Khoa] - [Email] - [GitHub username]
+- Mạc Tuấn Linh - HUST/SME - mactuanlinh4@gmail.com - @linh123
 ```
 
 ## Danh sách:
